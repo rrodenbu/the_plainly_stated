@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rrodenbu/the_plainly_stated/issues"
   },
-  "homepage": "https://github.com/rrodenbu/the_plainly_stated#readme"
+  "homepage": "https://github.com/rrodenbu/the_plainly_stated#readme",
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.1.0"
+  }
 }
