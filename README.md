@@ -16,6 +16,8 @@ Add html-webpack-plugin - dev dependency only
 `` npm i html-webpack-plugin -D ``
 Add webpack-dev-server - dev dependency only - to watch code changes
 `` npm i webpack-dev-server -D ``
+Add n css and style loaders - deve dependency only
+`` npm i css-loader style-loader -D  ``
 
 ## References
 `` https://medium.freecodecamp.org/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75 ``
