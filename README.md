@@ -8,8 +8,10 @@ Add npm to project
 `` npm init ``
 Add Webpack - dev dependency only
 `` npm i webpack webpack-cli -D ``
-Add ReaCT - dev & prod dependency
+Add React - dev & prod dependency
 `` npm i react react-dom -S ``
+Add Babel - dev dependency only
+`` npm i babel-core babel-loader babel-preset-env babel-preset-react -D ``
 
 
 ## References
